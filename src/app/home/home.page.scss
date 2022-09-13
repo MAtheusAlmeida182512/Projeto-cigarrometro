@@ -3,8 +3,15 @@ ion-content{
   --padding-top: 24px;
   --padding-start: 24px;
   --padding-end: 24px;
+  --background: url("../../assets/cigarro.jpg");
 }
 
 ion-item{
-  margin: 16px 0;
+  margin: center;
+}
+
+h1, h3{
+  color: #B30E02;
+  background-color: #D99893;
+  font-family:  Verdana;
 }
